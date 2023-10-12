@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-10-12T12:29:05 CEST" name="Quick" finished-at="2023-10-12T12:30:37 CEST" duration-ms="92410">
+  <suite started-at="2023-10-12T13:01:28 CEST" name="Quick" finished-at="2023-10-12T13:03:02 CEST" duration-ms="93947">
     <groups>
     </groups>
-    <test started-at="2023-10-12T12:29:05 CEST" name="Quick" finished-at="2023-10-12T12:30:37 CEST" duration-ms="92410">
+    <test started-at="2023-10-12T13:01:28 CEST" name="Quick" finished-at="2023-10-12T13:03:02 CEST" duration-ms="93947">
       <class name="org.ait.demoqa.tests.book.Store.LoginPageTests">
-        <test-method is-config="true" signature="init()[pri:0, instance:org.ait.demoqa.tests.book.Store.LoginPageTests@22e357dc]" started-at="2023-10-12T12:29:05 CEST" name="init" finished-at="2023-10-12T12:30:34 CEST" duration-ms="89182" status="PASS">
+        <test-method is-config="true" signature="init()[pri:0, instance:org.ait.demoqa.tests.book.Store.LoginPageTests@10163d6]" started-at="2023-10-12T13:01:28 CEST" name="init" finished-at="2023-10-12T13:02:57 CEST" duration-ms="88795" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method is-config="true" signature="startLogger(java.lang.reflect.Method)[pri:0, instance:org.ait.demoqa.tests.book.Store.LoginPageTests@22e357dc]" started-at="2023-10-12T12:30:34 CEST" name="startLogger" finished-at="2023-10-12T12:30:34 CEST" duration-ms="5" status="PASS">
+        <test-method is-config="true" signature="startLogger(java.lang.reflect.Method)[pri:0, instance:org.ait.demoqa.tests.book.Store.LoginPageTests@10163d6]" started-at="2023-10-12T13:02:57 CEST" name="startLogger" finished-at="2023-10-12T13:02:57 CEST" duration-ms="7" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -22,15 +22,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startLogger -->
-        <test-method is-config="true" signature="precondition()[pri:0, instance:org.ait.demoqa.tests.book.Store.LoginPageTests@22e357dc]" started-at="2023-10-12T12:30:34 CEST" name="precondition" finished-at="2023-10-12T12:30:35 CEST" duration-ms="627" status="PASS">
+        <test-method is-config="true" signature="precondition()[pri:0, instance:org.ait.demoqa.tests.book.Store.LoginPageTests@10163d6]" started-at="2023-10-12T13:02:57 CEST" name="precondition" finished-at="2023-10-12T13:02:58 CEST" duration-ms="1425" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- precondition -->
-        <test-method signature="loginPositiveTest()[pri:0, instance:org.ait.demoqa.tests.book.Store.LoginPageTests@22e357dc]" started-at="2023-10-12T12:30:35 CEST" name="loginPositiveTest" finished-at="2023-10-12T12:30:37 CEST" duration-ms="2108" status="PASS">
+        <test-method signature="loginPositiveTest()[pri:0, instance:org.ait.demoqa.tests.book.Store.LoginPageTests@10163d6]" started-at="2023-10-12T13:02:58 CEST" name="loginPositiveTest" finished-at="2023-10-12T13:03:01 CEST" duration-ms="2332" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginPositiveTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.ait.demoqa.tests.book.Store.LoginPageTests@22e357dc]" started-at="2023-10-12T12:30:37 CEST" name="tearDown" finished-at="2023-10-12T12:30:37 CEST" duration-ms="390" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.ait.demoqa.tests.book.Store.LoginPageTests@10163d6]" started-at="2023-10-12T13:03:01 CEST" name="tearDown" finished-at="2023-10-12T13:03:02 CEST" duration-ms="1322" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
